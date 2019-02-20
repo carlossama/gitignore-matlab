@@ -1,4 +1,6 @@
 Work/*
 
 !Work/.gitkeep
+
 inside/*
+!inside/.gitkeep
