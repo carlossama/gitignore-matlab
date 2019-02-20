@@ -4,3 +4,5 @@ Work/*
 
 inside/*
 !inside/.gitkeep
+main/inin/*
+!main/inin/.gitkeep
